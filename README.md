@@ -115,22 +115,3 @@ flutter run -d chrome
 | `lib/presentation/screens/home_screen.dart` | AnimatedOpacity, AnimatedContainer, search debounce |
 | `lib/presentation/screens/favorites_screen.dart` | AnimatedList with insert/remove |
 
----
-
-## 🎥 Demo
-
-> _Add your demo video link here (e.g., YouTube / Google Drive)_
-
----
-
-## 📦 APK
-
-> _Add your APK download link here_
-
----
-
-## 👤 Author
-
-**Aarav Mehta**  
-SMD Final Assignment — Smart Travel Companion  
-Flutter + BLoC + Clean Architecture
